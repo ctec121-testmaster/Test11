@@ -1,0 +1,7 @@
+G:\CTEC_135\1_2019_4_Fall\Module 2 - Intro to Tools\Testing\Test11\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\CTEC_135\1_2019_4_Fall\Module 2 - Intro to Tools\Testing\Test11\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\CTEC_135\1_2019_4_Fall\Module 2 - Intro to Tools\Testing\Test11\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\CTEC_135\1_2019_4_Fall\Module 2 - Intro to Tools\Testing\Test11\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\CTEC_135\1_2019_4_Fall\Module 2 - Intro to Tools\Testing\Test11\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\CTEC_135\1_2019_4_Fall\Module 2 - Intro to Tools\Testing\Test11\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\CTEC_135\1_2019_4_Fall\Module 2 - Intro to Tools\Testing\Test11\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
